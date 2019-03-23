@@ -1,0 +1,21 @@
+{
+  "name": "prepfootball",
+  "version": "0.1.0",
+  "description": "Program to scrape misshsfootball.com and save the information to a DB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node -r esm index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eslint": "^5.15.3",
+    "eslint-plugin-react": "^7.12.4",
+    "esm": "^3.2.20"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
