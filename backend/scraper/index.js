@@ -3,6 +3,7 @@
  *'http://misshsfootball.com/Teams/index.htm'
  *
  * https://github.com/siegfriedgrimbeek/cheerio-pagination-tutorial/blob/master/index.js
+ * https://www.thepolyglotdeveloper.com/2018/05/scraping-paginated-lists-nodejs-cheerio-async-await-recursion/
  *
  * import {
  *  scrapeHTML,
