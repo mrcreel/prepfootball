@@ -1,0 +1,1282 @@
+[
+    {
+        "teamName": "Aberdeen",
+        "teamURI": "Aberdeen.htm"
+    },
+    {
+        "teamName": "Adams County Christian",
+        "teamURI": "Adamscountychristian.htm"
+    },
+    {
+        "teamName": "Alcorn Central",
+        "teamURI": "Alcorncentral.htm"
+    },
+    {
+        "teamName": "Amite",
+        "teamURI": "Amite.htm"
+    },
+    {
+        "teamName": "Amite County",
+        "teamURI": "Amitecounty.htm"
+    },
+    {
+        "teamName": "Amory",
+        "teamURI": "Amory.htm"
+    },
+    {
+        "teamName": "Ashland",
+        "teamURI": "Ashland.htm"
+    },
+    {
+        "teamName": "Baldwyn",
+        "teamURI": "Baldwyn.htm"
+    },
+    {
+        "teamName": "Bay",
+        "teamURI": "Bay.htm"
+    },
+    {
+        "teamName": "Bayou Academy",
+        "teamURI": "Bayouacademy.htm"
+    },
+    {
+        "teamName": "Bay Springs",
+        "teamURI": "Baysprings.htm"
+    },
+    {
+        "teamName": "Belmont",
+        "teamURI": "Belmont.htm"
+    },
+    {
+        "teamName": "Ben's Ford Christian (LA)",
+        "teamURI": "Bensfordchristianla.htm"
+    },
+    {
+        "teamName": "Benton Academy",
+        "teamURI": "Bentonacademy.htm"
+    },
+    {
+        "teamName": "Biggersville",
+        "teamURI": "Biggersville.htm"
+    },
+    {
+        "teamName": "Biloxi",
+        "teamURI": "Biloxi.htm"
+    },
+    {
+        "teamName": "Bogue Chitto",
+        "teamURI": "Boguechitto.htm"
+    },
+    {
+        "teamName": "Booneville",
+        "teamURI": "Booneville.htm"
+    },
+    {
+        "teamName": "Bowling Green (LA)",
+        "teamURI": "Bowlinggreenla.htm"
+    },
+    {
+        "teamName": "Brandon",
+        "teamURI": "Brandon.htm"
+    },
+    {
+        "teamName": "Briarfield Academy (LA)",
+        "teamURI": "Briarfieldacademyla.htm"
+    },
+    {
+        "teamName": "Brookhaven",
+        "teamURI": "Brookhaven.htm"
+    },
+    {
+        "teamName": "Brookhaven Academy",
+        "teamURI": "Brookhavenacademy.htm"
+    },
+    {
+        "teamName": "Brooks",
+        "teamURI": "Brooks.htm"
+    },
+    {
+        "teamName": "Bruce",
+        "teamURI": "Bruce.htm"
+    },
+    {
+        "teamName": "Byers",
+        "teamURI": "Byers.htm"
+    },
+    {
+        "teamName": "Byhalia",
+        "teamURI": "Byhalia.htm"
+    },
+    {
+        "teamName": "Caledonia",
+        "teamURI": "Caledonia.htm"
+    },
+    {
+        "teamName": "Calhoun Academy",
+        "teamURI": "Calhounacademy.htm"
+    },
+    {
+        "teamName": "Calhoun City",
+        "teamURI": "Calhouncity.htm"
+    },
+    {
+        "teamName": "Callaway",
+        "teamURI": "Callaway.htm"
+    },
+    {
+        "teamName": "Canton",
+        "teamURI": "Canton.htm"
+    },
+    {
+        "teamName": "Canton Academy",
+        "teamURI": "Cantonacademy.htm"
+    },
+    {
+        "teamName": "Carroll Academy",
+        "teamURI": "Carrollacademy.htm"
+    },
+    {
+        "teamName": "Cathedral",
+        "teamURI": "Cathedral.htm"
+    },
+    {
+        "teamName": "Center Hill",
+        "teamURI": "Centerhill.htm"
+    },
+    {
+        "teamName": "Central Hinds Academy",
+        "teamURI": "Centralhindsacademy.htm"
+    },
+    {
+        "teamName": "Central Holmes Christian",
+        "teamURI": "Centralholmeschristian.htm"
+    },
+    {
+        "teamName": "Central Private (LA)",
+        "teamURI": "Centralprivatela.htm"
+    },
+    {
+        "teamName": "Centreville Academy",
+        "teamURI": "Centrevilleacademy.htm"
+    },
+    {
+        "teamName": "Charleston",
+        "teamURI": "Charleston.htm"
+    },
+    {
+        "teamName": "Choctaw Central",
+        "teamURI": "Choctawcentral.htm"
+    },
+    {
+        "teamName": "Choctaw County",
+        "teamURI": "Choctawcounty.htm"
+    },
+    {
+        "teamName": "Christian Collegiate Academy",
+        "teamURI": "Christiancollegiateacademy.htm"
+    },
+    {
+        "teamName": "Claiborne Academy (LA)",
+        "teamURI": "Claiborneacademyla.htm"
+    },
+    {
+        "teamName": "Clarkdale",
+        "teamURI": "Clarkdale.htm"
+    },
+    {
+        "teamName": "Clarksdale",
+        "teamURI": "Clarksdale.htm"
+    },
+    {
+        "teamName": "Cleveland Central",
+        "teamURI": "Clevelandcentral.htm"
+    },
+    {
+        "teamName": "Clinton",
+        "teamURI": "Clinton.htm"
+    },
+    {
+        "teamName": "Clinton Christian Academy",
+        "teamURI": "Clintonchristianacademy.htm"
+    },
+    {
+        "teamName": "Coahoma AHS",
+        "teamURI": "Coahomaahs.htm"
+    },
+    {
+        "teamName": "Coahoma County",
+        "teamURI": "Coahomacounty.htm"
+    },
+    {
+        "teamName": "Coffeeville",
+        "teamURI": "Coffeeville.htm"
+    },
+    {
+        "teamName": "Coldwater",
+        "teamURI": "Coldwater.htm"
+    },
+    {
+        "teamName": "Collins",
+        "teamURI": "Collins.htm"
+    },
+    {
+        "teamName": "Columbia",
+        "teamURI": "Columbia.htm"
+    },
+    {
+        "teamName": "Columbia Academy",
+        "teamURI": "Columbiaacademy.htm"
+    },
+    {
+        "teamName": "Columbus",
+        "teamURI": "Columbus.htm"
+    },
+    {
+        "teamName": "Columbus Christian Academy",
+        "teamURI": "Columbuschristianacademy.htm"
+    },
+    {
+        "teamName": "Copiah Academy",
+        "teamURI": "Copiahacademy.htm"
+    },
+    {
+        "teamName": "Corinth",
+        "teamURI": "Corinth.htm"
+    },
+    {
+        "teamName": "Crystal Springs",
+        "teamURI": "Crystalsprings.htm"
+    },
+    {
+        "teamName": "Deer Creek",
+        "teamURI": "Deercreek.htm"
+    },
+    {
+        "teamName": "Delta Academy",
+        "teamURI": "Deltaacademy.htm"
+    },
+    {
+        "teamName": "Delta Streets Academy",
+        "teamURI": "Deltastreetsacademy.htm"
+    },
+    {
+        "teamName": "DeSoto (AR)",
+        "teamURI": "Desotoar.htm"
+    },
+    {
+        "teamName": "DeSoto Central",
+        "teamURI": "Desotocentral.htm"
+    },
+    {
+        "teamName": "D'Iberville",
+        "teamURI": "Diberville.htm"
+    },
+    {
+        "teamName": "East Central",
+        "teamURI": "Eastcentral.htm"
+    },
+    {
+        "teamName": "East Marion",
+        "teamURI": "Eastmarion.htm"
+    },
+    {
+        "teamName": "East Rankin Academy",
+        "teamURI": "Eastrankinacademy.htm"
+    },
+    {
+        "teamName": "East Union",
+        "teamURI": "Eastunion.htm"
+    },
+    {
+        "teamName": "East Webster",
+        "teamURI": "Eastwebster.htm"
+    },
+    {
+        "teamName": "Elzy",
+        "teamURI": "Elzy.htm"
+    },
+    {
+        "teamName": "Enterprise (Clarke)",
+        "teamURI": "Enterpriseclarke.htm"
+    },
+    {
+        "teamName": "Enterprise (Lincoln)",
+        "teamURI": "Enterpriselincoln.htm"
+    },
+    {
+        "teamName": "Ethel",
+        "teamURI": "Ethel.htm"
+    },
+    {
+        "teamName": "Eupora",
+        "teamURI": "Eupora.htm"
+    },
+    {
+        "teamName": "Falkner",
+        "teamURI": "Falkner.htm"
+    },
+    {
+        "teamName": "Florence",
+        "teamURI": "Florence.htm"
+    },
+    {
+        "teamName": "Forest",
+        "teamURI": "Forest.htm"
+    },
+    {
+        "teamName": "Forest Hill",
+        "teamURI": "Foresthill.htm"
+    },
+    {
+        "teamName": "Forrest County AHS",
+        "teamURI": "Forrestcountyahs.htm"
+    },
+    {
+        "teamName": "Franklin Academy (LA)",
+        "teamURI": "Franklinacademyla.htm"
+    },
+    {
+        "teamName": "Franklin County",
+        "teamURI": "Franklincounty.htm"
+    },
+    {
+        "teamName": "French Camp Academy",
+        "teamURI": "Frenchcampacademy.htm"
+    },
+    {
+        "teamName": "Gautier",
+        "teamURI": "Gautier.htm"
+    },
+    {
+        "teamName": "Gentry",
+        "teamURI": "Gentry.htm"
+    },
+    {
+        "teamName": "George",
+        "teamURI": "George.htm"
+    },
+    {
+        "teamName": "George County",
+        "teamURI": "Georgecounty.htm"
+    },
+    {
+        "teamName": "Germantown",
+        "teamURI": "Germantown.htm"
+    },
+    {
+        "teamName": "Glenbrook (LA)",
+        "teamURI": "Glenbrookla.htm"
+    },
+    {
+        "teamName": "Greene County",
+        "teamURI": "Greenecounty.htm"
+    },
+    {
+        "teamName": "Greenville",
+        "teamURI": "Greenville.htm"
+    },
+    {
+        "teamName": "Greenville Christian",
+        "teamURI": "Greenvillechristian.htm"
+    },
+    {
+        "teamName": "Greenwood",
+        "teamURI": "Greenwood.htm"
+    },
+    {
+        "teamName": "Grenada",
+        "teamURI": "Grenada.htm"
+    },
+    {
+        "teamName": "Gulfport",
+        "teamURI": "Gulfport.htm"
+    },
+    {
+        "teamName": "Hamilton",
+        "teamURI": "Hamilton.htm"
+    },
+    {
+        "teamName": "Hancock",
+        "teamURI": "Hancock.htm"
+    },
+    {
+        "teamName": "Harrison Central",
+        "teamURI": "Harrisoncentral.htm"
+    },
+    {
+        "teamName": "Hartfield Academy",
+        "teamURI": "Hartfieldacademy.htm"
+    },
+    {
+        "teamName": "Hatley",
+        "teamURI": "Hatley.htm"
+    },
+    {
+        "teamName": "Hattiesburg",
+        "teamURI": "Hattiesburg.htm"
+    },
+    {
+        "teamName": "Hazlehurst",
+        "teamURI": "Hazlehurst.htm"
+    },
+    {
+        "teamName": "Hebron Christian",
+        "teamURI": "Hebronchristian.htm"
+    },
+    {
+        "teamName": "Heidelberg",
+        "teamURI": "Heidelberg.htm"
+    },
+    {
+        "teamName": "Heritage Academy",
+        "teamURI": "Heritageacademy.htm"
+    },
+    {
+        "teamName": "Hernando",
+        "teamURI": "Hernando.htm"
+    },
+    {
+        "teamName": "Hickory Flat",
+        "teamURI": "Hickoryflat.htm"
+    },
+    {
+        "teamName": "Hill",
+        "teamURI": "Hill.htm"
+    },
+    {
+        "teamName": "Hillcrest Christian",
+        "teamURI": "Hillcrestchristian.htm"
+    },
+    {
+        "teamName": "Holly Springs",
+        "teamURI": "Hollysprings.htm"
+    },
+    {
+        "teamName": "Holmes County Central",
+        "teamURI": "Holmescountycentral.htm"
+    },
+    {
+        "teamName": "Horn Lake",
+        "teamURI": "Hornlake.htm"
+    },
+    {
+        "teamName": "Houston",
+        "teamURI": "Houston.htm"
+    },
+    {
+        "teamName": "Humphreys Academy",
+        "teamURI": "Humphreysacademy.htm"
+    },
+    {
+        "teamName": "Humphreys County",
+        "teamURI": "Humphreyscounty.htm"
+    },
+    {
+        "teamName": "Independence",
+        "teamURI": "Independence.htm"
+    },
+    {
+        "teamName": "Indianola Academy",
+        "teamURI": "Indianolaacademy.htm"
+    },
+    {
+        "teamName": "Itawamba AHS",
+        "teamURI": "Itawambaahs.htm"
+    },
+    {
+        "teamName": "Jackson Academy",
+        "teamURI": "Jacksonacademy.htm"
+    },
+    {
+        "teamName": "Jackson Prep",
+        "teamURI": "Jacksonprep.htm"
+    },
+    {
+        "teamName": "Jefferson County",
+        "teamURI": "Jeffersoncounty.htm"
+    },
+    {
+        "teamName": "Jefferson Davis County",
+        "teamURI": "Jeffersondaviscounty.htm"
+    },
+    {
+        "teamName": "Kemper Academy",
+        "teamURI": "Kemperacademy.htm"
+    },
+    {
+        "teamName": "Kemper County",
+        "teamURI": "Kempercounty.htm"
+    },
+    {
+        "teamName": "Kirk Academy",
+        "teamURI": "Kirkacademy.htm"
+    },
+    {
+        "teamName": "Kosciusko",
+        "teamURI": "Kosciusko.htm"
+    },
+    {
+        "teamName": "Kossuth",
+        "teamURI": "Kossuth.htm"
+    },
+    {
+        "teamName": "Lafayette",
+        "teamURI": "Lafayette.htm"
+    },
+    {
+        "teamName": "Lake",
+        "teamURI": "Lake.htm"
+    },
+    {
+        "teamName": "Lake Cormorant",
+        "teamURI": "Lakecormorant.htm"
+    },
+    {
+        "teamName": "Lamar",
+        "teamURI": "Lamar.htm"
+    },
+    {
+        "teamName": "Lanier",
+        "teamURI": "Lanier.htm"
+    },
+    {
+        "teamName": "Laurel",
+        "teamURI": "Laurel.htm"
+    },
+    {
+        "teamName": "Lawrence County",
+        "teamURI": "Lawrencecounty.htm"
+    },
+    {
+        "teamName": "Leake Academy",
+        "teamURI": "Leakeacademy.htm"
+    },
+    {
+        "teamName": "Leake Central",
+        "teamURI": "Leakecentral.htm"
+    },
+    {
+        "teamName": "Leake County",
+        "teamURI": "Leakecounty.htm"
+    },
+    {
+        "teamName": "Lee Academy",
+        "teamURI": "Leeacademy.htm"
+    },
+    {
+        "teamName": "Lee Academy (AR)",
+        "teamURI": "Leeacademyar.htm"
+    },
+    {
+        "teamName": "Leflore County",
+        "teamURI": "Leflorecounty.htm"
+    },
+    {
+        "teamName": "Leland",
+        "teamURI": "Leland.htm"
+    },
+    {
+        "teamName": "Lewisburg",
+        "teamURI": "Lewisburg.htm"
+    },
+    {
+        "teamName": "Long Beach",
+        "teamURI": "Longbeach.htm"
+    },
+    {
+        "teamName": "Louisville",
+        "teamURI": "Louisville.htm"
+    },
+    {
+        "teamName": "Loyd Star",
+        "teamURI": "Loydstar.htm"
+    },
+    {
+        "teamName": "Lumberton",
+        "teamURI": "Lumberton.htm"
+    },
+    {
+        "teamName": "Madison Central",
+        "teamURI": "Madisoncentral.htm"
+    },
+    {
+        "teamName": "Madison-Ridgeland Academy",
+        "teamURI": "Madisonridgelandacademy.htm"
+    },
+    {
+        "teamName": "Magee",
+        "teamURI": "Magee.htm"
+    },
+    {
+        "teamName": "Magnolia Heights",
+        "teamURI": "Magnoliaheights.htm"
+    },
+    {
+        "teamName": "Manchester Academy",
+        "teamURI": "Manchesteracademy.htm"
+    },
+    {
+        "teamName": "Mantachie",
+        "teamURI": "Mantachie.htm"
+    },
+    {
+        "teamName": "Marshall Academy",
+        "teamURI": "Marshallacademy.htm"
+    },
+    {
+        "teamName": "Marvell Academy (AR)",
+        "teamURI": "Marvellacademyar.htm"
+    },
+    {
+        "teamName": "McAdams",
+        "teamURI": "Mcadams.htm"
+    },
+    {
+        "teamName": "McComb",
+        "teamURI": "Mccomb.htm"
+    },
+    {
+        "teamName": "McLaurin",
+        "teamURI": "Mclaurin.htm"
+    },
+    {
+        "teamName": "Mendenhall",
+        "teamURI": "Mendenhall.htm"
+    },
+    {
+        "teamName": "Meridian",
+        "teamURI": "Meridian.htm"
+    },
+    {
+        "teamName": "Mississippi School for the Deaf",
+        "teamURI": "MSD.htm"
+    },
+    {
+        "teamName": "Mize",
+        "teamURI": "Mize.htm"
+    },
+    {
+        "teamName": "Mooreville",
+        "teamURI": "Mooreville.htm"
+    },
+    {
+        "teamName": "Morton",
+        "teamURI": "Morton.htm"
+    },
+    {
+        "teamName": "Moss Point",
+        "teamURI": "Mosspoint.htm"
+    },
+    {
+        "teamName": "Mount Olive",
+        "teamURI": "Mountolive.htm"
+    },
+    {
+        "teamName": "Murrah",
+        "teamURI": "Murrah.htm"
+    },
+    {
+        "teamName": "Myrtle",
+        "teamURI": "Myrtle.htm"
+    },
+    {
+        "teamName": "Nanih Waiya",
+        "teamURI": "Nanihwaiya.htm"
+    },
+    {
+        "teamName": "Natchez",
+        "teamURI": "Natchez.htm"
+    },
+    {
+        "teamName": "Neshoba Central",
+        "teamURI": "Neshobacentral.htm"
+    },
+    {
+        "teamName": "Nettleton",
+        "teamURI": "Nettleton.htm"
+    },
+    {
+        "teamName": "New Albany",
+        "teamURI": "Newalbany.htm"
+    },
+    {
+        "teamName": "New Hope",
+        "teamURI": "Newhope.htm"
+    },
+    {
+        "teamName": "Newton",
+        "teamURI": "Newton.htm"
+    },
+    {
+        "teamName": "Newton County",
+        "teamURI": "Newtoncounty.htm"
+    },
+    {
+        "teamName": "Newton County Academy",
+        "teamURI": "Newtoncountyacademy.htm"
+    },
+    {
+        "teamName": "North Delta",
+        "teamURI": "Northdelta.htm"
+    },
+    {
+        "teamName": "North Forrest",
+        "teamURI": "Northforrest.htm"
+    },
+    {
+        "teamName": "North Panola",
+        "teamURI": "Northpanola.htm"
+    },
+    {
+        "teamName": "North Pike",
+        "teamURI": "Northpike.htm"
+    },
+    {
+        "teamName": "North Pontotoc",
+        "teamURI": "Northpontotoc.htm"
+    },
+    {
+        "teamName": "North Side",
+        "teamURI": "Northside.htm"
+    },
+    {
+        "teamName": "North Sunflower Academy",
+        "teamURI": "Northsunfloweracademy.htm"
+    },
+    {
+        "teamName": "Northeast Jones",
+        "teamURI": "Northeastjones.htm"
+    },
+    {
+        "teamName": "Northeast Lauderdale",
+        "teamURI": "Northeastlauderdale.htm"
+    },
+    {
+        "teamName": "Northpoint Christian",
+        "teamURI": "Northpointchristian.htm"
+    },
+    {
+        "teamName": "Northwest Rankin",
+        "teamURI": "Northwestrankin.htm"
+    },
+    {
+        "teamName": "Noxapater",
+        "teamURI": "Noxapater.htm"
+    },
+    {
+        "teamName": "Noxubee County",
+        "teamURI": "Noxubeecounty.htm"
+    },
+    {
+        "teamName": "Oak Forest Academy (LA)",
+        "teamURI": "Oakforestacademyla.htm"
+    },
+    {
+        "teamName": "Oak Grove",
+        "teamURI": "Oakgrove.htm"
+    },
+    {
+        "teamName": "Oak Hill Academy",
+        "teamURI": "Oakhillacademy.htm"
+    },
+    {
+        "teamName": "O'Bannon",
+        "teamURI": "Obannon.htm"
+    },
+    {
+        "teamName": "Ocean Springs",
+        "teamURI": "Oceansprings.htm"
+    },
+    {
+        "teamName": "Okolona",
+        "teamURI": "Okolona.htm"
+    },
+    {
+        "teamName": "Olive Branch",
+        "teamURI": "Olivebranch.htm"
+    },
+    {
+        "teamName": "Oxford",
+        "teamURI": "Oxford.htm"
+    },
+    {
+        "teamName": "Palmer",
+        "teamURI": "Palmer.htm"
+    },
+    {
+        "teamName": "Park Place Christian Academy",
+        "teamURI": "Parkplacechristianacademy.htm"
+    },
+    {
+        "teamName": "Parklane Academy",
+        "teamURI": "Parklaneacademy.htm"
+    },
+    {
+        "teamName": "Pascagoula",
+        "teamURI": "Pascagoula.htm"
+    },
+    {
+        "teamName": "Pass Christian",
+        "teamURI": "Passchristian.htm"
+    },
+    {
+        "teamName": "Pearl",
+        "teamURI": "Pearl.htm"
+    },
+    {
+        "teamName": "Pearl River Central",
+        "teamURI": "Pearlrivercentral.htm"
+    },
+    {
+        "teamName": "Pelahatchie",
+        "teamURI": "Pelahatchie.htm"
+    },
+    {
+        "teamName": "Perry Central",
+        "teamURI": "Perrycentral.htm"
+    },
+    {
+        "teamName": "Petal",
+        "teamURI": "Petal.htm"
+    },
+    {
+        "teamName": "Philadelphia",
+        "teamURI": "Philadelphia.htm"
+    },
+    {
+        "teamName": "Picayune",
+        "teamURI": "Picayune.htm"
+    },
+    {
+        "teamName": "Pillow Academy",
+        "teamURI": "Pillowacademy.htm"
+    },
+    {
+        "teamName": "Pisgah",
+        "teamURI": "Pisgah.htm"
+    },
+    {
+        "teamName": "Pontotoc",
+        "teamURI": "Pontotoc.htm"
+    },
+    {
+        "teamName": "Poplarville",
+        "teamURI": "Poplarville.htm"
+    },
+    {
+        "teamName": "Port Gibson",
+        "teamURI": "Portgibson.htm"
+    },
+    {
+        "teamName": "Porter's Chapel Academy",
+        "teamURI": "Porterschapelacademy.htm"
+    },
+    {
+        "teamName": "Potts Camp",
+        "teamURI": "Pottscamp.htm"
+    },
+    {
+        "teamName": "Prairie View Academy (LA)",
+        "teamURI": "Prairieviewacademyla.htm"
+    },
+    {
+        "teamName": "Prentiss Christian",
+        "teamURI": "Prentisschristian.htm"
+    },
+    {
+        "teamName": "Presbyterian Christian",
+        "teamURI": "Presbyterianchristian.htm"
+    },
+    {
+        "teamName": "Provine",
+        "teamURI": "Provine.htm"
+    },
+    {
+        "teamName": "Puckett",
+        "teamURI": "Puckett.htm"
+    },
+    {
+        "teamName": "Purvis",
+        "teamURI": "Purvis.htm"
+    },
+    {
+        "teamName": "Quitman",
+        "teamURI": "Quitman.htm"
+    },
+    {
+        "teamName": "Raleigh",
+        "teamURI": "Raleigh.htm"
+    },
+    {
+        "teamName": "Raymond",
+        "teamURI": "Raymond.htm"
+    },
+    {
+        "teamName": "Rebul Academy",
+        "teamURI": "Rebulacademy.htm"
+    },
+    {
+        "teamName": "Resurrection",
+        "teamURI": "Resurrection.htm"
+    },
+    {
+        "teamName": "Richland",
+        "teamURI": "Richland.htm"
+    },
+    {
+        "teamName": "Richton",
+        "teamURI": "Richton.htm"
+    },
+    {
+        "teamName": "Ridgeland",
+        "teamURI": "Ridgeland.htm"
+    },
+    {
+        "teamName": "Ripley",
+        "teamURI": "Ripley.htm"
+    },
+    {
+        "teamName": "River Oaks (LA)",
+        "teamURI": "Riveroaksla.htm"
+    },
+    {
+        "teamName": "Riverdale Academy (LA)",
+        "teamURI": "Riverdaleacademyla.htm"
+    },
+    {
+        "teamName": "Riverfield Academy (LA)",
+        "teamURI": "Riverfieldacademyla.htm"
+    },
+    {
+        "teamName": "Riverside",
+        "teamURI": "Riverside.htm"
+    },
+    {
+        "teamName": "Rosa Fort",
+        "teamURI": "Rosafort.htm"
+    },
+    {
+        "teamName": "Ruleville Central",
+        "teamURI": "Rulevillecentral.htm"
+    },
+    {
+        "teamName": "Russell Christian Academy",
+        "teamURI": "Russellchristianacademy.htm"
+    },
+    {
+        "teamName": "Sacred Heart",
+        "teamURI": "Sacredheart.htm"
+    },
+    {
+        "teamName": "Saint Aloysius",
+        "teamURI": "Saintaloysius.htm"
+    },
+    {
+        "teamName": "Saint Andrew's Episcopal",
+        "teamURI": "Saintandrewsepiscopal.htm"
+    },
+    {
+        "teamName": "Saint Joseph (Greenville)",
+        "teamURI": "Saintjosephgreenville.htm"
+    },
+    {
+        "teamName": "Saint Joseph (Madison)",
+        "teamURI": "Saintjosephmadison.htm"
+    },
+    {
+        "teamName": "Saint Martin",
+        "teamURI": "Saintmartin.htm"
+    },
+    {
+        "teamName": "Saint Patrick",
+        "teamURI": "Saintpatrick.htm"
+    },
+    {
+        "teamName": "Saint Stanislaus",
+        "teamURI": "Saintstanislaus.htm"
+    },
+    {
+        "teamName": "Salem",
+        "teamURI": "Salem.htm"
+    },
+    {
+        "teamName": "Saltillo",
+        "teamURI": "Saltillo.htm"
+    },
+    {
+        "teamName": "Scott Central",
+        "teamURI": "Scottcentral.htm"
+    },
+    {
+        "teamName": "Sebastopol",
+        "teamURI": "Sebastopol.htm"
+    },
+    {
+        "teamName": "Seminary",
+        "teamURI": "Seminary.htm"
+    },
+    {
+        "teamName": "Senatobia",
+        "teamURI": "Senatobia.htm"
+    },
+    {
+        "teamName": "Shannon",
+        "teamURI": "Shannon.htm"
+    },
+    {
+        "teamName": "Sharkey-Issaquena Academy",
+        "teamURI": "Sharkeyissaquenaacademy.htm"
+    },
+    {
+        "teamName": "Shaw",
+        "teamURI": "Shaw.htm"
+    },
+    {
+        "teamName": "Silliman (LA)",
+        "teamURI": "Sillimanla.htm"
+    },
+    {
+        "teamName": "Simmons",
+        "teamURI": "Simmons.htm"
+    },
+    {
+        "teamName": "Simpson County Academy",
+        "teamURI": "Simpsoncountyacademy.htm"
+    },
+    {
+        "teamName": "Smithville",
+        "teamURI": "Smithville.htm"
+    },
+    {
+        "teamName": "South Delta",
+        "teamURI": "Southdelta.htm"
+    },
+    {
+        "teamName": "South Jones",
+        "teamURI": "Southjones.htm"
+    },
+    {
+        "teamName": "South Panola",
+        "teamURI": "Southpanola.htm"
+    },
+    {
+        "teamName": "South Pike",
+        "teamURI": "Southpike.htm"
+    },
+    {
+        "teamName": "South Pontotoc",
+        "teamURI": "Southpontotoc.htm"
+    },
+    {
+        "teamName": "Southaven",
+        "teamURI": "Southaven.htm"
+    },
+    {
+        "teamName": "Southeast Lauderdale",
+        "teamURI": "Southeastlauderdale.htm"
+    },
+    {
+        "teamName": "Starkville",
+        "teamURI": "Starkville.htm"
+    },
+    {
+        "teamName": "Starkville Academy",
+        "teamURI": "Starkvilleacademy.htm"
+    },
+    {
+        "teamName": "Stone",
+        "teamURI": "Stone.htm"
+    },
+    {
+        "teamName": "Strayhorn",
+        "teamURI": "Strayhorn.htm"
+    },
+    {
+        "teamName": "Stringer",
+        "teamURI": "Stringer.htm"
+    },
+    {
+        "teamName": "Sumrall",
+        "teamURI": "Sumrall.htm"
+    },
+    {
+        "teamName": "Sylva Bay Academy",
+        "teamURI": "Sylvabayacademy.htm"
+    },
+    {
+        "teamName": "Tallulah Academy (LA)",
+        "teamURI": "Tallulahacademyla.htm"
+    },
+    {
+        "teamName": "Taylorsville",
+        "teamURI": "Taylorsville.htm"
+    },
+    {
+        "teamName": "Tensas Academy (LA)",
+        "teamURI": "Tensasacademyla.htm"
+    },
+    {
+        "teamName": "Terry",
+        "teamURI": "Terry.htm"
+    },
+    {
+        "teamName": "Thrasher",
+        "teamURI": "Thrasher.htm"
+    },
+    {
+        "teamName": "Tishomingo County",
+        "teamURI": "Tishomingocounty.htm"
+    },
+    {
+        "teamName": "Tri-County Academy",
+        "teamURI": "Tricountyacademy.htm"
+    },
+    {
+        "teamName": "Tunica Academy",
+        "teamURI": "Tunicaacademy.htm"
+    },
+    {
+        "teamName": "Tupelo",
+        "teamURI": "Tupelo.htm"
+    },
+    {
+        "teamName": "Tupelo Christian Prep",
+        "teamURI": "Tupelochristianprep.htm"
+    },
+    {
+        "teamName": "Tylertown",
+        "teamURI": "Tylertown.htm"
+    },
+    {
+        "teamName": "Union",
+        "teamURI": "Union.htm"
+    },
+    {
+        "teamName": "Union Christian Academy (LA)",
+        "teamURI": "Unionchristianacademyla.htm"
+    },
+    {
+        "teamName": "Unity Christian Academy",
+        "teamURI": "Unitychristianacademy.htm"
+    },
+    {
+        "teamName": "Vancleave",
+        "teamURI": "Vancleave.htm"
+    },
+    {
+        "teamName": "Vardaman",
+        "teamURI": "Vardaman.htm"
+    },
+    {
+        "teamName": "Velma Jackson",
+        "teamURI": "Velmajackson.htm"
+    },
+    {
+        "teamName": "Vicksburg",
+        "teamURI": "Vicksburg.htm"
+    },
+    {
+        "teamName": "Victory Christian Academy",
+        "teamURI": "Victorychristianacademy.htm"
+    },
+    {
+        "teamName": "Walnut",
+        "teamURI": "Walnut.htm"
+    },
+    {
+        "teamName": "Warren Central",
+        "teamURI": "Warrencentral.htm"
+    },
+    {
+        "teamName": "Washington",
+        "teamURI": "Washington.htm"
+    },
+    {
+        "teamName": "Water Valley",
+        "teamURI": "Watervalley.htm"
+    },
+    {
+        "teamName": "Wayne Academy",
+        "teamURI": "Wayneacademy.htm"
+    },
+    {
+        "teamName": "Wayne County",
+        "teamURI": "Waynecounty.htm"
+    },
+    {
+        "teamName": "Wesson",
+        "teamURI": "Wesson.htm"
+    },
+    {
+        "teamName": "West Bolivar",
+        "teamURI": "Westbolivar.htm"
+    },
+    {
+        "teamName": "West Harrison",
+        "teamURI": "Westharrison.htm"
+    },
+    {
+        "teamName": "West Jones",
+        "teamURI": "Westjones.htm"
+    },
+    {
+        "teamName": "West Lauderdale",
+        "teamURI": "Westlauderdale.htm"
+    },
+    {
+        "teamName": "West Lincoln",
+        "teamURI": "Westlincoln.htm"
+    },
+    {
+        "teamName": "West Lowndes",
+        "teamURI": "Westlowndes.htm"
+    },
+    {
+        "teamName": "West Marion",
+        "teamURI": "Westmarion.htm"
+    },
+    {
+        "teamName": "West Memphis Christian (AR)",
+        "teamURI": "Westmemphischristianar.htm"
+    },
+    {
+        "teamName": "West Point",
+        "teamURI": "Westpoint.htm"
+    },
+    {
+        "teamName": "West Tallahatchie",
+        "teamURI": "Westtallahatchie.htm"
+    },
+    {
+        "teamName": "Wilkinson County",
+        "teamURI": "Wilkinsoncounty.htm"
+    },
+    {
+        "teamName": "Wilkinson County Christian Academy",
+        "teamURI": "Wilkinsoncountychristianacademy.htm"
+    },
+    {
+        "teamName": "Wingfield",
+        "teamURI": "Wingfield.htm"
+    },
+    {
+        "teamName": "Winona",
+        "teamURI": "Winona.htm"
+    },
+    {
+        "teamName": "Winona Christian",
+        "teamURI": "Winonachristian.htm"
+    },
+    {
+        "teamName": "Winston Academy",
+        "teamURI": "Winstonacademy.htm"
+    },
+    {
+        "teamName": "Yazoo City",
+        "teamURI": "Yazoocity.htm"
+    },
+    {
+        "teamName": "Yazoo County",
+        "teamURI": "Yazoocounty.htm"
+    }
+]
