@@ -4,7 +4,7 @@
  *
  * https://www.thepolyglotdeveloper.com/2018/05/scraping-paginated-lists-nodejs-cheerio-async-await-recursion/
  * https://github.com/siegfriedgrimbeek/cheerio-pagination-tutorial/blob/master/index.js
- *
+ * 
  * import {
  *  scrapeHTML,
  *   scrapeTeams
