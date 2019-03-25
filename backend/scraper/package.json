@@ -7,8 +7,17 @@
     "lib": "lib"
   },
   "scripts": {
-    "dev": "node -r esm index.js"
+    "dev": "nodemon -r esm index.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "nodemonConfig": {
+    "ignore": [
+      "*.json"
+    ]
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "nodemon": "^1.18.10"
+  }
 }
