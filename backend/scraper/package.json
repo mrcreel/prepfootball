@@ -1,0 +1,14 @@
+{
+  "name": "scraper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "node -r esm index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
