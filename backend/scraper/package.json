@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "dev": "nodemon -r esm index.js"
+    "dev": "node -r esm index.js"
   },
   "author": "",
   "license": "MIT",

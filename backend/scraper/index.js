@@ -1,19 +1,53 @@
 /**
  *'/home/michael/projects/prepfootball/data/teams/index.htm'
  *'http://misshsfootball.com/Teams/index.htm'
+ *
+ * https://github.com/siegfriedgrimbeek/cheerio-pagination-tutorial/blob/master/index.js
+ * https://www.thepolyglotdeveloper.com/2018/05/scraping-paginated-lists-nodejs-cheerio-async-await-recursion/
+ *
+ * import {
+ *  scrapeHTML,
+ *   scrapeTeams
+ * }  from './lib/scraper'
 */
 
-import {
-  scrapeHTML,
-  scrapeTeams
-}  from './lib/scraper'
+const axios = require('axios')
+const cheerio = require('cheerio')
+const fs = require('fs')
+const chalk = require('chalk')
 
-const page = 'http://misshsfootball.com/Teams/index.htm'
+const url = 'http://misshsfootball.com/Teams/index.htm'
+const outputFile = './data/teams/teams.json'
+const parsedResults = []
 
-async function getTeams(page) {
-  const data = scrapeTeams(await scrapeHTML(page))
-  // eslint-disable-next-line no-console
-  console.log(data)
+console.log(chalk.yellow.bgBlue(`\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`))
+
+const getWebsiteContent = async (url) => {
+  try {
+    const response = await axios.get(url)
+    const $ = cheerio.load(response.data)
+    $('[width=152]').children('a').map((idx, ele) => {
+      const metadata = {
+        teamName: $(ele).text(),
+        teamURI: $(ele).attr('href')
+      }
+      console.log(`${metadata.count}) ${metadata.teamName} <${chalk.underline(metadata.teamURI)}/>`)
+      parsedResults.push(metadata)
+    })
+  }
+  catch(error) {
+    console.log(error)
+  }
+  exportResults(parsedResults)
 }
 
-getTeams(page)
+const exportResults = (parsedResults) => {
+  fs.writeFile(outputFile, JSON.stringify(parsedResults, null, 4), (err) => {
+    if (err) {
+      console.log(err)
+    }
+    console.log(chalk.yellow.bgBlue(`\n ${chalk.underline.bold(parsedResults.length)} Results exported successfully to ${chalk.underline.bold(outputFile)}\n`))
+  })
+}
+
+getWebsiteContent(url)
