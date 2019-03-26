@@ -31,7 +31,7 @@ const getWebsiteContent = async (url) => {
         teamName: $(ele).text(),
         teamURI: $(ele).attr('href')
       }
-      console.log(`${metadata.count}) ${metadata.teamName} <${chalk.underline(metadata.teamURI)}/>`)
+      console.log(`${idx}) ${metadata.teamName} <${chalk.underline(metadata.teamURI)}/>`)
       parsedResults.push(metadata)
     })
   }
