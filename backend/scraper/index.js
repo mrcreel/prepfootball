@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /**
  *'/home/michael/projects/prepfootball/data/teams/index.htm'
  *'http://misshsfootball.com/Teams/index.htm'
@@ -5,19 +6,24 @@
  * https://github.com/siegfriedgrimbeek/cheerio-pagination-tutorial/blob/master/index.js
  * https://www.thepolyglotdeveloper.com/2018/05/scraping-paginated-lists-nodejs-cheerio-async-await-recursion/
  *
- * import {
- *  scrapeHTML,
- *   scrapeTeams
- * }  from './lib/scraper'
 */
-
+const express = require('express')
 const axios = require('axios')
 const cheerio = require('cheerio')
 const fs = require('fs')
 const chalk = require('chalk')
 
+const app = express()
+
+app.get('/scrape', (req, res, next) => {
+  console.log('Scraping')
+})
+
+app.listen(1492, () => console.log('Running on 1492')) 
+
+
 const url = 'http://misshsfootball.com/Teams/index.htm'
-const outputFile = './data/teams/teams.json'
+const outputFile = './backend/scraper/data/teams/teams.json'
 const parsedResults = []
 
 console.log(chalk.yellow.bgBlue(`\n  Scraping of ${chalk.underline.bold(url)} initiated...\n`))
@@ -51,3 +57,5 @@ const exportResults = (parsedResults) => {
 }
 
 getWebsiteContent(url)
+
+
